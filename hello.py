@@ -1,3 +1,5 @@
-print("Hello New World")
-print("Pragati Baburao Sakhare")
+print("Hello Sakhare World")
+print("Pragati Vijaya Sakhare")
+print("Sonam Vijaya Sakhare")
+
 
